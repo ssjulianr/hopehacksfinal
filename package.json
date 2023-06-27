@@ -1,0 +1,27 @@
+{
+  "name": "hopehacksfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssjulianr/hopehacksfinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssjulianr/hopehacksfinal/issues"
+  },
+  "homepage": "https://github.com/ssjulianr/hopehacksfinal#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mysql2": "^3.4.2",
+    "node": "^20.3.1",
+    "node-fetch": "^3.3.1"
+  }
+}
